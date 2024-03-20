@@ -64,16 +64,12 @@ add details in username and password textfield
 
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/101044019/192495320-317bb96a-bf1e-469f-a537-b380ebb987c6.png">
 
-3.10->  Payment
-will land you in paytm but dont pay unless you like my work:
 
-<img width="620" alt="image" src="https://user-images.githubusercontent.com/101044019/192495645-28635795-670d-4fd6-9368-c7edaf69162b.png">
-
-3.11 -> Destination;
+3.10 -> Destination;
 the places wil add soon on this
 
 
-3.12 -> About  will display all the details of the project and use of it.
+3.11 -> About  will display all the details of the project and use of it.
 
 
  4 --> Conn .java   file will connnect all data from MySQL to this ;
